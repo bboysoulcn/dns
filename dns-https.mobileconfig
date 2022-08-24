@@ -13,9 +13,9 @@
 				<string>https://dns.bboysoul.cn/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use Tiarap Encrypted DNS over HTTPS</string>
+			<string>Configures device to use Bboysoul Encrypted DNS over HTTPS</string>
 			<key>PayloadDisplayName</key>
-			<string>Tiarap DNS over HTTPS</string>
+			<string>Bboysoul DNS over HTTPS</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.c5a076fb-5f1e-445d-bf74-c67312d07986</string>
 			<key>PayloadType</key>
@@ -29,9 +29,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the Tiarap DNS to Big Sur and iOS 14 based systems</string>
+	<string>Adds the Bboysoul DNS to Big Sur and iOS 14 based systems</string>
 	<key>PayloadDisplayName</key>
-	<string>Tiarap DNS over HTTPS</string>
+	<string>Bboysoul DNS over HTTPS</string>
 	<key>PayloadIdentifier</key>
 	<string>efc4955f-ecea-4fd0-9ee8-8f079010c01b</string>
 	<key>PayloadRemovalDisallowed</key>
